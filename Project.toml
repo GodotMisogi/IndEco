@@ -3,6 +3,9 @@ uuid = "60007217-ccd6-4f20-a69a-21f04036fe1c"
 authors = ["GodotMisogi <GodotMisogi@github.com> and contributors"]
 version = "0.1.0"
 
+[deps]
+Pluto = "c3e4b0f8-55cb-11ea-2926-15256bba5781"
+
 [compat]
 julia = "1"
 
